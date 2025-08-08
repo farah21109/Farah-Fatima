@@ -31,7 +31,7 @@ Git GitHub VS Code 8085 Simulator
 
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/farah-fatima-6111a52b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://www.linkedin.com/in/farah-fatima-6111a52b6)  
 [![GitHub](https://github.com/farah21109)
 
 ---
